@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo-1 => Filtering Years
+![Demo CountPages alpha](https://j.gifs.com/oZloyX.gif)
+
+## Demo-2 => Adding Expenses
+![Demo CountPages alpha](https://j.gifs.com/QkGl79.gif)
+
+## Final Demo
+![Demo CountPages alpha](https://j.gifs.com/83Nn93.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
